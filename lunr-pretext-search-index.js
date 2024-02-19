@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Colofón",
   "number": "",
   "title": "Colofón",
-  "body": "  Diseño de la Portada  rjcg    Editor Productor  Rommel Contreras   1 edición digital RJCG, 2023   Lope de Aguirre: Un meteoro en la Costa de las Perlas   copyright  "
+  "body": "  Diseño de la Portada  rjcg    Editor Productor  Rommel Contreras   1 edición digital RJCG, 2023     copyright  copyright  "
 },
 {
   "id": "author-bio",
@@ -40,9 +40,9 @@ var ptx_lunr_docs = [
   "id": "reconocimiento",
   "level": "1",
   "url": "reconocimiento.html",
-  "type": "Agradecimentos",
+  "type": "Agradecimientos",
   "number": "",
-  "title": "Agradecimentos",
+  "title": "Agradecimientos",
   "body": " A todos los colegas de la Academia de la Geo Historia del Estado Sucre:  Presentes.  Ausentes.  Familiares y amigos.  "
 },
 {
@@ -412,7 +412,7 @@ var ptx_lunr_docs = [
   "type": "Colofón",
   "number": "",
   "title": "Colofón",
-  "body": " Este libro fué reescrito en XML  (eXtensible Markup Language) ; un meta-lenguaje que permite definir lenguajes de marcas; desarrollado por el World Wide Web Consortium ( W3C ). Utilizando Notepad ++ un editor de código fuente (Software Libre; licencia GPL), y editado para su publicación con  PreTeXt  ; un vocabulario XML para documentos académicos; con  PreTeXt  se puede describir el contenido y la estructura de un libro de texto, monografía o artículo académico (Software Libre; licencia GPL). Se utilizó como sistema operativo el Subsistema Linux en Windows (WSL 2) ; un entorno GNU\/Linux en Windows.  Nota: Todas las marcas registradas son las marcas registradas de sus respectivos propietarios.        copyright Rommel Contreras;   .     Todos los derechos reservados.     Ciudad de Cumaná.  República Bolivariana de Venezuela.  "
+  "body": " Este libro fué escrito en (eXtensible Markup Language); un meta-lenguaje que permite definir lenguajes de marcas; desarrollado por el (World Wide Web Consortium). Utilizando (Visual Studio Code), un editor\/compilador de código fuente (de Microsoft Corporation; licencia MIT), y editado para su publicación con ; un vocabulario XML para documentos académicos; con PreTeXt se puede describir el contenido y la estructura de un libro de texto, monografía o artículo académico ( PreTeXt es Software Libre; licencia GPL). Se utilizó como sistema operativo el (Subsistema Linux en Windows); un entorno GNU\/Linux en Windows.  Nota: Las marcas registradas ( ), son de sus respectivos propietarios.        copyright Rommel Contreras;   .     Todos los derechos reservados.     Ciudad de Cumaná.  República Bolivariana de Venezuela.  "
 }
 ]
 
